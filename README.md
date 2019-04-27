@@ -1,8 +1,8 @@
 # Simulate-Blockchain-Mining-with-pyhton-
-Use python to simulate compression data with double SHA, repeat nonce and generate genesis block.
+Use python to simulate compression data with double SHA, find correct nonce and generate genesis block of Bitcoin.
 
 Command:
-py testcase.py
+py bitcoinMine.py
 
 Plan to implement a complete blockchain structure.
 Reference:
